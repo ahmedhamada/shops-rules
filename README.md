@@ -112,7 +112,7 @@ in the link (5)
 *must be logged in
 
 link:http://men3m.com/shops/product/create
-method:get
+method:post
 parameters:
 p_name
 p_details
