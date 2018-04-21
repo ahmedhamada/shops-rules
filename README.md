@@ -89,11 +89,11 @@ parameters:
 page ==> page number *required
 products_per_page => number of products per page   *not required default 10
 
-
 [ * ] attention
 you can use link:http://men3m.com/shops/product/count_all_products
 to use in paggination
 it return the number of all products
+
 ==============================
 
 
