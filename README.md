@@ -8,7 +8,7 @@ link:http://men3m.com/shops/users/register
 method:post
 parameters:
 (email   pass   your_name   phone   city) *required
-(fb   shop_place   shop_name   shop_details   shop_place_details)
+(fb   whatsapp   shop_place   shop_name   shop_details   shop_place_details )
 
 
 =======================
